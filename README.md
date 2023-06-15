@@ -1,4 +1,4 @@
-<img align='right' style="border-radius: 50%" class="profile-img" src="https://avatars.githubusercontent.com/u/48426193?s=400&u=d82e3888741b09a048a5a0ec992a7021d85cc80c&v=4" width="230">
+<!-- <img align='right' style="border-radius: 50%" class="profile-img" src="https://avatars.githubusercontent.com/u/48426193?s=400&u=d82e3888741b09a048a5a0ec992a7021d85cc80c&v=4" width="230"> -->
 
 
 ## Hello 👋, I'm Prashant
