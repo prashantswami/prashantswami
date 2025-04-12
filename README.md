@@ -17,25 +17,11 @@ I'm a passionate software engineer with over 10 years of experience in building 
 
 ---
 
-## 👨‍💻 Open Source Contributions
-
-🧩 Contributing to [migrate-mongo](https://github.com/seppevs/migrate-mongo) — a flexible MongoDB migration tool used by developers around the world.
-
----
-
-## 📌 Currently Exploring
-
-- Accessibility tooling for developers (framework-agnostic utilities)
-- Technical stock analysis in the Indian share market
-- Lightweight alternatives to heavy packages (like Lodash)
-
----
-
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/prashantswami)
+- [LinkedIn](https://www.linkedin.com/in/praswami)
 - [GitHub](https://github.com/prashantswami)
-- Email: [prashantswami@outlook.com](mailto:prashantswami@outlook.com)
+- [mr.prashantswami@gmail.com](mr.prashantswami@gmail.com)
 
 ---
 
