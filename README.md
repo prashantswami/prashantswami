@@ -1,8 +1,44 @@
-<!-- <img align='right' style="border-radius: 50%" class="profile-img" src="https://avatars.githubusercontent.com/u/48426193?s=400&u=d82e3888741b09a048a5a0ec992a7021d85cc80c&v=4" width="230"> -->
+# 👋 Hi, I'm Prashant Swami
 
-#### Hello 👋
+🎯 **Full-Stack Developer | Problem Solver | Open Source Contributor**
 
-[![](https://img.shields.io/badge/LinkedIn-@praswami-blue)](https://www.linkedin.com/in/praswami/)
-[![](https://img.shields.io/badge/Gmail-mr.prashantswami@gmail.com-red)](mailto:mr.prashantswami@gmail.com)
-[![](https://img.shields.io/twitter/follow/pro_shaant?style=social)](https://twitter.com/pro_shaant)
+I'm a passionate software engineer with over 10 years of experience in building scalable, maintainable, and performant applications. My core expertise lies in **Node.js**, **React**, and **Java/Spring Boot**, with a strong focus on backend development and cloud-native solutions.
 
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Java
+- **Backend:** Node.js, Express.js, NestJS, Spring Boot
+- **Frontend:** React.js, HTML, CSS
+- **Databases:** MongoDB, MySQL, MS SQL
+- **Cloud & DevOps:** Azure (DevOps, AKS, Managed Identity), Docker, Kubernetes
+- **Tools:** Git, Postman, Swagger, VS Code, IntelliJ
+
+---
+
+## 👨‍💻 Open Source Contributions
+
+🧩 Contributing to [migrate-mongo](https://github.com/seppevs/migrate-mongo) — a flexible MongoDB migration tool used by developers around the world.
+
+---
+
+## 📌 Currently Exploring
+
+- Accessibility tooling for developers (framework-agnostic utilities)
+- Technical stock analysis in the Indian share market
+- Lightweight alternatives to heavy packages (like Lodash)
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/prashantswami)
+- [GitHub](https://github.com/prashantswami)
+- Email: [prashantswami@outlook.com](mailto:prashantswami@outlook.com)
+
+---
+
+> "Yad Bhāvam Tad Bhavati" – As is your thought, so you become.
+
+Thanks for visiting! 🙌
