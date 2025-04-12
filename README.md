@@ -10,18 +10,14 @@ I'm a passionate software engineer with over 10 years of experience in building 
 
 - **Languages:** JavaScript, TypeScript, Java
 - **Backend:** Node.js, Express.js, NestJS, Spring Boot
-- **Frontend:** React.js, HTML, CSS
-- **Databases:** MongoDB, MySQL, MS SQL
+- **Frontend:** React.js, VueJs, Angular, HTML, CSS
 - **Cloud & DevOps:** Azure (DevOps, AKS, Managed Identity), Docker, Kubernetes
-- **Tools:** Git, Postman, Swagger, VS Code, IntelliJ
 
 ---
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/praswami)
-- [GitHub](https://github.com/prashantswami)
-- [mr.prashantswami@gmail.com](mr.prashantswami@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/praswami) | [GitHub](https://github.com/prashantswami) | [mr.prashantswami@gmail.com](mr.prashantswami@gmail.com)
 
 ---
 
